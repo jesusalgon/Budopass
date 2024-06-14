@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+miniconda3/
+miniconda3/envs/
+miniconda3/conda-meta/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.so
+*.cover
+*.py,cover
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.tox/
+.local/
+
+# Environment variables
+.env
+.env.*
+.localenv
+
+# Pytest
+.cache/
+
+# Migrations
+*/migrations/*.pyc
+*/migrations/*.pyo
+
+# SQLite database
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Other
+.DS_Store
